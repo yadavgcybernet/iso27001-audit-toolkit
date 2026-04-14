@@ -3,8 +3,8 @@
 > A practical, ready-to-use toolkit for ISO 27001:2022 internal audits,
 > risk assessments, and ISMS implementation — built from real-world audit experience.
 
-Maintained by [Yadav Ghorasainee](https://linkedin.com/in/yadav-ghorasainee)
-— IS Auditor | ISO 27001 Internal Auditor | GRC Professional | Perth, WA, Australia
+Maintained by [Yadav Ghorasainee](https://linkedin.com/in/yadav-ghorasainee)  
+**ISO/IEC 27001:2022 Lead Auditor** | IS Auditor | GRC Professional | Perth, WA, Australia
 
 ---
 
@@ -22,7 +22,7 @@ certifications expired in October 2025).
 
 ---
 
-## Repository contents
+## Repository Contents
 
 | File | Purpose |
 |---|---|
@@ -33,11 +33,11 @@ certifications expired in October 2025).
 
 ---
 
-## ISO 27001:2022 at a glance
+## ISO 27001:2022 at a Glance
 
-### Mandatory clauses (4–10)
+### Mandatory Clauses (4–10)
 
-| Clause | Title | Key deliverable |
+| Clause | Title | Key Deliverable |
 |---|---|---|
 | 4 | Context of the Organisation | ISMS Scope document |
 | 5 | Leadership | Information Security Policy (top management signed) |
@@ -47,7 +47,7 @@ certifications expired in October 2025).
 | 9 | Performance Evaluation | Internal audit report, management review minutes |
 | 10 | Improvement | Corrective action log, nonconformity records |
 
-### Annex A — 4 themes, 93 controls
+### Annex A — 4 Themes, 93 Controls
 
 | Theme | Controls | Focus |
 |---|---|---|
@@ -56,35 +56,44 @@ certifications expired in October 2025).
 | 7 — Physical | A.7.1 – A.7.14 (14 controls) | Physical perimeters, entry controls, clear desk |
 | 8 — Technological | A.8.1 – A.8.34 (34 controls) | Access control, cryptography, secure development, monitoring |
 
-### 11 new controls introduced in 2022
+### 11 New Controls Introduced in ISO 27001:2022
 
-`A.5.7` Threat intelligence · `A.5.23` Cloud services security · `A.5.30` ICT readiness for BC
-`A.7.4` Physical security monitoring · `A.8.9` Configuration management · `A.8.10` Information deletion
-`A.8.11` Data masking · `A.8.12` Data leakage prevention · `A.8.16` Monitoring activities
-`A.8.23` Web filtering · `A.8.28` Secure coding
+| Control | Name |
+|---|---|
+| A.5.7 | Threat intelligence |
+| A.5.23 | Information security for use of cloud services |
+| A.5.30 | ICT readiness for business continuity |
+| A.7.4 | Physical security monitoring |
+| A.8.9 | Configuration management |
+| A.8.10 | Information deletion |
+| A.8.11 | Data masking |
+| A.8.12 | Data leakage prevention |
+| A.8.16 | Monitoring activities |
+| A.8.23 | Web filtering |
+| A.8.28 | Secure coding |
 
 ---
 
-## How to use this toolkit
+## How to Use This Toolkit
 
-### For internal auditors
+### For Internal Auditors
 1. Use `annex-a-controls-checklist.md` as your audit checklist — mark each control's status
 2. Use `audit-evidence-guide.md` to know exactly what evidence to request per clause
 3. Document findings and raise nonconformities (NCs) and observations (OBs)
 
-### For ISMS implementers
+### For ISMS Implementers
 1. Start with `statement-of-applicability-template.md` — document inclusion/exclusion of each control
 2. Build your `risk-register-template.md` — link identified risks to controls in the SoA
 3. Work through the evidence checklist to identify documentation gaps
 
-### For certification preparation
+### For Certification Preparation
 1. Verify all mandatory records exist (see `audit-evidence-guide.md`)
 2. Ensure the SoA is signed off and links to the risk treatment plan
 3. Confirm internal audit and management review have been completed within the last 12 months
 
 ---
 
-## Audit risk rating scale used in this toolkit
+## Audit Risk Rating Scale
 
 | Score | Likelihood / Impact | Label |
 |---|---|---|
@@ -96,7 +105,7 @@ certifications expired in October 2025).
 
 **Risk score = Likelihood × Impact** (max 25)
 
-| Risk score | Rating |
+| Risk Score | Rating |
 |---|---|
 | 1–4 | Low |
 | 5–9 | Medium |
@@ -125,10 +134,11 @@ share with attribution.
 
 ## Author
 
-**Yadav Ghorasainee**
-IS Auditor | (ISC)² CC | ISO 27001 Internal Auditor | Fortinet NSE
+**Yadav Ghorasainee**  
+ISO/IEC 27001:2022 Lead Auditor (Mastermind Assurance — Active to Apr 2029)  
+IS Auditor | (ISC)² CC | GRC Professional | Fortinet NSE  
 Perth, WA, Australia | Full Australian working rights
 
-- 📧 yadavg.cybernet@gmail.com
+- 📧 [yadavg.cybernet@gmail.com](mailto:yadavg.cybernet@gmail.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/yadav-ghorasainee)
 - 🌐 [Portfolio](https://yadavgcybernet.github.io/sec)
